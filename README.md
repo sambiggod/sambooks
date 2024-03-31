@@ -1,2 +1,2 @@
 # samhub
-learn somethin at hub
+learn and share sometings on hub
